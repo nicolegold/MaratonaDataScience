@@ -11,6 +11,6 @@ Curso Maratona Data Science by Qoda | Início: 03/05/2020
 * [Dicionários](https://github.com/nicolegold/MaratonaDataScience/blob/master/Dicion%C3%A1rios.ipynb)
 * ~~ em andamento
 ---
-**Aula 2: R**
+**Aula 2: R** 
 
  
