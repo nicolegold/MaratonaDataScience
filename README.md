@@ -1,6 +1,6 @@
 # MaratonaDataScience
 Curso Maratona Data Science by Qoda
-
+---
 **Aula 1: Python**
 * [helloworld](https://github.com/nicolegold/MaratonaDataScience/blob/master/helloworld.ipynb)
 * [TiposdeDadoseVariaveis.](https://github.com/nicolegold/MaratonaDataScience/blob/master/TiposdeDadoseVariaveis.ipynb)
