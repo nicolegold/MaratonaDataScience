@@ -1,4 +1,4 @@
-# MaratonaDataScience
+# MaratonaDataScience - Curso em andamento
 Curso Maratona Data Science by Qoda | Início: 03/05/2020
 ---
 **Aula 1: Python**
