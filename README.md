@@ -13,6 +13,7 @@ Curso Maratona Data Science by Qoda | Início: 03/05/2020
 * [LaçosDeRepetição](https://github.com/nicolegold/MaratonaDataScience/blob/master/La%C3%A7osDeRepeti%C3%A7%C3%A3o.ipynb)
 * [Sets](https://github.com/nicolegold/MaratonaDataScience/blob/master/Sets.ipynb)
 * [TratamentoDeErrosEExceções](https://github.com/nicolegold/MaratonaDataScience/blob/master/TratamentoDeErrosEExce%C3%A7%C3%B5es.ipynb)
+* [MétodoseFunções](https://github.com/nicolegold/MaratonaDataScience/blob/master/M%C3%A9todoseFun%C3%A7%C3%B5es.ipynb)
 * ~~ em andamento
 ---
 **Aula 2: Linguagem R** 
