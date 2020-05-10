@@ -21,9 +21,9 @@ Curso Maratona Data Science by Qoda | Início: 03/05/2020
 * [Web Scraping](https://github.com/nicolegold/MaratonaDataScience/blob/master/WebScraping.ipynb)
 * [APIs Basico](https://github.com/nicolegold/MaratonaDataScience/blob/master/APIsBasico.ipynb)
 * LABORATÓRIO:<ol>
-<ol> [Fase 1](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase1.ipynb)
-[Fase 2](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase2.ipynb)
-...continua </ol>
+ <li> [Fase 1](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase1.ipynb)
+ <li> [Fase 2](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase2.ipynb)
+ <li>...continua </ol>
 
 ---
 **Aula 2: Linguagem R** 
