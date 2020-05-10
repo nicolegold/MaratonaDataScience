@@ -18,6 +18,7 @@ Curso Maratona Data Science by Qoda | Início: 03/05/2020
 * [Programação Orientada a Objetos](https://github.com/nicolegold/MaratonaDataScience/blob/master/POO.ipynb)
 * [EXTRA Programação Orientada a Objetos](https://github.com/nicolegold/MaratonaDataScience/blob/master/POOextras.ipynb)
 * [Arquivos](https://github.com/nicolegold/MaratonaDataScience/blob/master/Arquivos.ipynb)
+* [Web Scraping](https://github.com/nicolegold/MaratonaDataScience/blob/master/WebScraping.ipynb)
 * ~~ em andamento
 ---
 **Aula 2: Linguagem R** 
