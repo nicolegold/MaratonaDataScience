@@ -25,5 +25,5 @@ Curso Maratona Data Science by Qoda | Início: 03/05/2020
 
 ---
 **Aula 2: Linguagem R** 
-
+* [Linguagem R](https://github.com/nicolegold/MaratonaDataScience/blob/master/R_7tKvo74.ipynb)
  
