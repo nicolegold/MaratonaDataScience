@@ -20,7 +20,7 @@ Curso Maratona Data Science by Qoda | Início: 03/05/2020
 * [Arquivos](https://github.com/nicolegold/MaratonaDataScience/blob/master/Arquivos.ipynb)
 * [Web Scraping](https://github.com/nicolegold/MaratonaDataScience/blob/master/WebScraping.ipynb)
 * [APIs Basico](https://github.com/nicolegold/MaratonaDataScience/blob/master/APIsBasico.ipynb)
-* LABORATÓRIO:<ol>[Fase 1](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase1.ipynb)</ol><ol>[Fase 2](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase2.ipynb)</ol><ol>[Fase 3](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase3.ipynb)</ol>
+* LABORATÓRIO:<ol>[Fase 1 - Python](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase1.ipynb)</ol><ol>[Fase 2 - Python](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase2.ipynb)</ol><ol>[Fase 3 - Python](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase3.ipynb)</ol>
 
 
 ---
@@ -28,4 +28,5 @@ Curso Maratona Data Science by Qoda | Início: 03/05/2020
 * [Linguagem R](https://github.com/nicolegold/MaratonaDataScience/blob/master/R_7tKvo74.ipynb)
 * [Data Transformation with dplyr : : CHEAT SHEET](https://github.com/nicolegold/MaratonaDataScience/blob/master/data-transformation.pdf)
 * [Data Import : : CHEAT SHEET](https://github.com/nicolegold/MaratonaDataScience/blob/master/data-import.pdf)
+* LABORATÓRIO:<ol>[Fase 1 - R]()</ol><ol>[Fase 2 - R]()</ol><ol>[Fase 3 - R]()</ol>
  
