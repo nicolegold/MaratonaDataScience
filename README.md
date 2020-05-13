@@ -1,5 +1,8 @@
 # MaratonaDataScience - Curso em andamento
 Curso Maratona Data Science by Qoda | Início: 03/05/2020
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nicolegold/MaratonaDataScience/master/MaratonaDataScienceQODA.png" >
+</p>
 ---
 **Aula 1: Linguagem Python**
 * [HelloWorld](https://github.com/nicolegold/MaratonaDataScience/blob/master/helloworld.ipynb)
