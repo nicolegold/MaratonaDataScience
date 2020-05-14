@@ -31,7 +31,8 @@ Curso Maratona Data Science by Qoda | Início: 03/05/2020
 ---
 **Semana 2: Linguagem R** 
 * [Linguagem R](https://github.com/nicolegold/MaratonaDataScience/blob/master/R_7tKvo74.ipynb)
-* [Data Transformation with dplyr : : CHEAT SHEET](https://github.com/nicolegold/MaratonaDataScience/blob/master/data-transformation.pdf)
-* [Data Import : : CHEAT SHEET](https://github.com/nicolegold/MaratonaDataScience/blob/master/data-import.pdf)
+* [Data Visualization with ggplot2 : : CHEAT SHEET](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
+* [Data Transformation with dplyr : : CHEAT SHEET](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
+* [Data Import : : CHEAT SHEET](https://rawgit.com/rstudio/cheatsheets/master/data-import.pdf)
 * LABORATÓRIO:<ol>[Fase 1 - R](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase1R.ipynb)</ol><ol>[Fase 2 - R](https://github.com/nicolegold/MaratonaDataScience/blob/master/Fase2R.ipynb)</ol><ol>[Fase 3 - R ~em andamento]()</ol>
  
